@@ -1,8 +1,8 @@
 # Hi, I'm Shubham 👋  
 
-- 💡 Interested in **Web Development & Data Analytics**  
-- ⚡ Tech Stack: **JavaScript | Python | SQL | Power BI | React**  
+- 💡 Interested in **Data Analytics & software engineer roles**  
+- ⚡ Tech Stack: **Python | SQL | Power BI | HTML | CSS | JavaScript | GCP**  
 - 🌱 Currently learning **Cloud & API Integrations**  
 - 🤝 Looking to collaborate on **open-source projects**  
 
-📫 Reach me: LinkedIn - https://www.linkedin.com/in/shubham-atugade-b70a71249/
+📫 Reach me: https://shubhamatugade.github.io
